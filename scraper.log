@@ -1,0 +1,207 @@
+2025-08-20 14:44:51,855 - INFO - No proxies file found, using direct connection
+2025-08-20 14:44:51,855 - INFO - 🚀 Processing batch 1 to 50
+2025-08-20 14:44:51,855 - INFO - 📊 Processing 50 new cases out of 50 total
+2025-08-20 14:44:54,783 - INFO - ✅ Added Case 1
+2025-08-20 14:44:58,065 - INFO - ✅ Added Case 2
+2025-08-20 14:45:00,502 - INFO - ✅ Added Case 3
+2025-08-20 14:45:03,484 - INFO - ✅ Added Case 4
+2025-08-20 14:45:07,162 - WARNING - ⚠️ No judgment text found for Case 5
+2025-08-20 14:45:07,163 - INFO - ⚠️ Skipped Case 5
+2025-08-20 14:45:10,351 - WARNING - ⚠️ No judgment text found for Case 6
+2025-08-20 14:45:10,351 - INFO - ⚠️ Skipped Case 6
+2025-08-20 14:45:11,626 - INFO - ✅ Added Case 7
+2025-08-20 14:45:15,148 - INFO - ✅ Added Case 8
+2025-08-20 14:45:18,829 - WARNING - ⚠️ No judgment text found for Case 9
+2025-08-20 14:45:18,829 - INFO - ⚠️ Skipped Case 9
+2025-08-20 14:45:22,314 - INFO - ✅ Added Case 10
+2025-08-20 14:45:24,407 - INFO - ✅ Added Case 11
+2025-08-20 14:45:28,870 - INFO - ✅ Added Case 12
+2025-08-20 14:45:29,896 - INFO - ✅ Added Case 13
+2025-08-20 14:45:35,011 - INFO - ✅ Added Case 14
+2025-08-20 14:45:38,293 - INFO - ✅ Added Case 15
+2025-08-20 14:45:40,962 - INFO - ✅ Added Case 16
+2025-08-20 14:45:45,053 - INFO - ✅ Added Case 17
+2025-08-20 14:45:46,886 - WARNING - ⚠️ No judgment text found for Case 18
+2025-08-20 14:45:46,887 - INFO - ⚠️ Skipped Case 18
+2025-08-20 14:45:50,887 - INFO - ✅ Added Case 19
+2025-08-20 14:45:52,931 - INFO - ✅ Added Case 20
+2025-08-20 14:45:54,469 - INFO - ✅ Added Case 21
+2025-08-20 14:45:58,360 - INFO - ✅ Added Case 22
+2025-08-20 14:46:00,879 - INFO - 😴 Taking a longer nap for 16.2 seconds...
+2025-08-20 14:46:18,645 - INFO - ✅ Added Case 23
+2025-08-20 14:46:20,946 - INFO - 😴 Taking a longer nap for 29.8 seconds...
+2025-08-20 14:46:54,792 - INFO - No proxies file found, using direct connection
+2025-08-20 14:46:54,793 - INFO - 🚀 Processing batch 1 to 50
+2025-08-20 14:46:54,793 - INFO - 📊 Processing 27 new cases out of 50 total
+2025-08-20 14:47:01,247 - INFO - ✅ Added Case 24
+2025-08-20 14:47:03,377 - INFO - ✅ Added Case 25
+2025-08-20 14:47:06,193 - INFO - ✅ Added Case 26
+2025-08-20 14:47:06,275 - INFO - 😴 Taking a longer nap for 5.1 seconds...
+2025-08-20 14:47:12,494 - INFO - ✅ Added Case 27
+2025-08-20 14:47:17,407 - INFO - ✅ Added Case 28
+2025-08-20 14:47:22,730 - WARNING - ⚠️ No judgment text found for Case 29
+2025-08-20 14:47:22,731 - INFO - ⚠️ Skipped Case 29
+2025-08-20 14:47:26,534 - WARNING - ⚠️ No judgment text found for Case 30
+2025-08-20 14:47:26,534 - INFO - ⚠️ Skipped Case 30
+2025-08-20 14:47:27,645 - WARNING - ⚠️ No judgment text found for Case 31
+2025-08-20 14:47:27,646 - INFO - ⚠️ Skipped Case 31
+2025-08-20 14:47:29,905 - INFO - ✅ Added Case 32
+2025-08-20 14:47:33,790 - INFO - ✅ Added Case 33
+2025-08-20 14:47:37,280 - INFO - ✅ Added Case 34
+2025-08-20 14:47:40,159 - INFO - ✅ Added Case 35
+2025-08-20 14:47:40,873 - INFO - 😴 Taking a longer nap for 7.7 seconds...
+2025-08-20 14:47:51,206 - INFO - ✅ Added Case 36
+2025-08-20 14:47:54,067 - WARNING - ⚠️ No judgment text found for Case 37
+2025-08-20 14:47:54,067 - INFO - ⚠️ Skipped Case 37
+2025-08-20 14:47:56,319 - INFO - ✅ Added Case 38
+2025-08-20 14:48:02,052 - WARNING - ⚠️ No judgment text found for Case 39
+2025-08-20 14:48:02,052 - INFO - ⚠️ Skipped Case 39
+2025-08-20 14:48:04,918 - WARNING - ⚠️ No judgment text found for Case 40
+2025-08-20 14:48:04,919 - INFO - ⚠️ Skipped Case 40
+2025-08-20 14:48:07,173 - INFO - ✅ Added Case 41
+2025-08-20 14:48:10,247 - INFO - ✅ Added Case 42
+2025-08-20 14:48:13,929 - INFO - ✅ Added Case 43
+2025-08-20 14:48:24,511 - INFO - ✅ Added Case 44
+2025-08-20 14:48:27,858 - INFO - ✅ Added Case 45
+2025-08-20 14:48:29,480 - INFO - 😴 Taking a longer nap for 7.3 seconds...
+2025-08-20 14:48:39,531 - INFO - ✅ Added Case 46
+2025-08-20 14:48:43,532 - INFO - ✅ Added Case 47
+2025-08-20 14:48:45,263 - INFO - ✅ Added Case 48
+2025-08-20 14:48:49,773 - INFO - ✅ Added Case 49
+2025-08-20 14:48:52,022 - INFO - ✅ Added Case 50
+2025-08-20 14:48:53,482 - INFO - ☕ Taking a break for 94.3 seconds between batches...
+2025-08-20 14:49:55,234 - INFO - No proxies file found, using direct connection
+2025-08-20 14:49:55,234 - INFO - 🚀 Processing batch 1 to 50
+2025-08-20 14:49:55,234 - INFO - 📊 Processing 0 new cases out of 50 total
+2025-08-20 14:49:55,234 - INFO - ☕ Taking a break for 69.9 seconds between batches...
+2025-08-20 14:49:59,612 - INFO - No proxies file found, using direct connection
+2025-08-20 14:49:59,612 - INFO - 🚀 Processing batch 1 to 50
+2025-08-20 14:49:59,612 - INFO - 📊 Processing 0 new cases out of 50 total
+2025-08-20 14:49:59,612 - INFO - ☕ Taking a break for 18.7 seconds between batches...
+2025-08-20 14:50:18,321 - INFO - 🚀 Processing batch 51 to 100
+2025-08-20 14:50:18,322 - INFO - 📊 Processing 50 new cases out of 50 total
+2025-08-20 14:50:20,598 - INFO - ✅ Added Case 51
+2025-08-20 14:50:20,918 - INFO - 😴 Taking a longer nap for 5.7 seconds...
+2025-08-20 14:50:28,794 - INFO - ✅ Added Case 52
+2025-08-20 14:50:33,404 - INFO - ✅ Added Case 53
+2025-08-20 14:50:35,922 - INFO - ✅ Added Case 54
+2025-08-20 14:50:39,467 - INFO - ✅ Added Case 55
+2025-08-20 14:50:41,997 - INFO - ✅ Added Case 56
+2025-08-20 14:50:44,136 - INFO - 😴 Taking a longer nap for 7.7 seconds...
+2025-08-20 14:50:52,450 - INFO - ✅ Added Case 57
+2025-08-20 14:50:53,991 - INFO - ✅ Added Case 58
+2025-08-20 14:50:56,956 - WARNING - ⚠️ No judgment text found for Case 59
+2025-08-20 14:50:56,956 - INFO - ⚠️ Skipped Case 59
+2025-08-20 14:50:59,617 - INFO - ✅ Added Case 60
+2025-08-20 14:51:00,946 - INFO - ✅ Added Case 61
+2025-08-20 14:51:02,672 - WARNING - ⚠️ No judgment text found for Case 62
+2025-08-20 14:51:02,673 - INFO - ⚠️ Skipped Case 62
+2025-08-20 14:51:03,507 - INFO - ✅ Added Case 63
+2025-08-20 14:51:06,575 - INFO - ✅ Added Case 64
+2025-08-20 14:51:07,390 - INFO - ✅ Added Case 65
+2025-08-20 14:51:09,554 - INFO - ✅ Added Case 66
+2025-08-20 14:51:13,339 - INFO - ✅ Added Case 67
+2025-08-20 14:51:15,384 - INFO - ✅ Added Case 68
+2025-08-20 14:51:19,890 - INFO - ✅ Added Case 69
+2025-08-20 14:51:23,706 - INFO - ✅ Added Case 70
+2025-08-20 14:51:26,446 - INFO - ✅ Added Case 71
+2025-08-20 14:51:29,117 - INFO - ✅ Added Case 72
+2025-08-20 14:51:35,453 - INFO - ✅ Added Case 73
+2025-08-20 14:51:37,091 - WARNING - ⚠️ No judgment text found for Case 74
+2025-08-20 14:51:37,091 - INFO - ⚠️ Skipped Case 74
+2025-08-20 14:51:40,370 - INFO - ✅ Added Case 75
+2025-08-20 14:51:44,665 - INFO - ✅ Added Case 76
+2025-08-20 14:51:47,542 - INFO - ✅ Added Case 77
+2025-08-20 14:51:49,031 - INFO - 😴 Taking a longer nap for 7.9 seconds...
+2025-08-20 14:51:58,183 - INFO - ✅ Added Case 78
+2025-08-20 14:52:01,256 - INFO - ✅ Added Case 79
+2025-08-20 14:52:04,335 - INFO - ✅ Added Case 80
+2025-08-20 14:52:05,964 - INFO - ✅ Added Case 81
+2025-08-20 14:52:08,742 - INFO - ✅ Added Case 82
+2025-08-20 14:52:13,248 - WARNING - ⚠️ No judgment text found for Case 83
+2025-08-20 14:52:13,248 - INFO - ⚠️ Skipped Case 83
+2025-08-20 14:52:17,977 - INFO - ✅ Added Case 84
+2025-08-20 14:52:18,445 - INFO - 😴 Taking a longer nap for 7.1 seconds...
+2025-08-20 14:52:26,561 - INFO - ✅ Added Case 85
+2025-08-20 14:52:28,736 - INFO - 😴 Taking a longer nap for 7.8 seconds...
+2025-08-20 14:52:37,588 - INFO - ✅ Added Case 86
+2025-08-20 14:52:38,121 - INFO - 😴 Taking a longer nap for 6.1 seconds...
+2025-08-20 14:52:47,434 - WARNING - ⚠️ No judgment text found for Case 87
+2025-08-20 14:52:47,434 - INFO - ⚠️ Skipped Case 87
+2025-08-20 14:52:49,181 - INFO - ✅ Added Case 88
+2025-08-20 14:52:52,473 - INFO - ✅ Added Case 89
+2025-08-20 14:52:53,855 - INFO - ✅ Added Case 90
+2025-08-20 14:52:57,163 - INFO - ✅ Added Case 91
+2025-08-20 14:52:59,552 - INFO - ✅ Added Case 92
+2025-08-20 14:53:03,000 - INFO - ✅ Added Case 93
+2025-08-20 14:53:04,587 - WARNING - ⚠️ No judgment text found for Case 94
+2025-08-20 14:53:04,587 - INFO - ⚠️ Skipped Case 94
+2025-08-20 14:53:06,583 - INFO - ✅ Added Case 95
+2025-08-20 14:53:08,751 - WARNING - ⚠️ No judgment text found for Case 96
+2025-08-20 14:53:08,752 - INFO - ⚠️ Skipped Case 96
+2025-08-20 14:53:10,387 - INFO - ✅ Added Case 97
+2025-08-20 14:53:13,192 - INFO - ✅ Added Case 98
+2025-08-20 14:53:16,524 - INFO - ✅ Added Case 99
+2025-08-20 14:53:18,359 - INFO - ✅ Added Case 100
+2025-08-20 14:53:21,259 - INFO - ☕ Taking a break for 14.8 seconds between batches...
+2025-08-20 14:53:36,104 - INFO - 🚀 Processing batch 101 to 150
+2025-08-20 14:53:36,105 - INFO - 📊 Processing 50 new cases out of 50 total
+2025-08-20 14:53:36,733 - WARNING - ⚠️ No judgment text found for Case 101
+2025-08-20 14:53:36,733 - INFO - ⚠️ Skipped Case 101
+2025-08-20 14:53:38,958 - WARNING - ⚠️ No judgment text found for Case 102
+2025-08-20 14:53:38,958 - INFO - ⚠️ Skipped Case 102
+2025-08-20 14:53:40,992 - INFO - ✅ Added Case 103
+2025-08-20 14:53:43,857 - WARNING - ⚠️ No judgment text found for Case 104
+2025-08-20 14:53:43,858 - INFO - ⚠️ Skipped Case 104
+2025-08-20 14:53:48,981 - INFO - ✅ Added Case 105
+2025-08-20 14:53:51,026 - INFO - ✅ Added Case 106
+2025-08-20 14:53:53,583 - INFO - ✅ Added Case 107
+2025-08-20 14:54:02,394 - INFO - ✅ Added Case 108
+2025-08-20 14:54:05,566 - WARNING - ⚠️ No judgment text found for Case 109
+2025-08-20 14:54:05,566 - INFO - ⚠️ Skipped Case 109
+2025-08-20 14:54:07,001 - INFO - ✅ Added Case 110
+2025-08-20 14:54:10,192 - INFO - ✅ Added Case 111
+2025-08-20 14:54:11,460 - INFO - ✅ Added Case 112
+2025-08-20 14:54:12,938 - INFO - ✅ Added Case 113
+2025-08-20 14:54:16,125 - INFO - ✅ Added Case 114
+2025-08-20 14:54:16,827 - WARNING - ⚠️ No judgment text found for Case 115
+2025-08-20 14:54:16,827 - INFO - ⚠️ Skipped Case 115
+2025-08-20 14:54:20,254 - WARNING - ⚠️ No judgment text found for Case 116
+2025-08-20 14:54:20,254 - INFO - ⚠️ Skipped Case 116
+2025-08-20 14:54:21,381 - WARNING - ⚠️ No judgment text found for Case 117
+2025-08-20 14:54:21,381 - INFO - ⚠️ Skipped Case 117
+2025-08-20 14:54:24,746 - INFO - ✅ Added Case 118
+2025-08-20 14:54:27,488 - INFO - 😴 Taking a longer nap for 7.8 seconds...
+2025-08-20 14:54:35,889 - INFO - ✅ Added Case 119
+2025-08-20 14:54:37,517 - INFO - ✅ Added Case 120
+2025-08-20 14:54:40,087 - WARNING - ⚠️ No judgment text found for Case 121
+2025-08-20 14:54:40,087 - INFO - ⚠️ Skipped Case 121
+2025-08-20 14:54:43,659 - INFO - ✅ Added Case 122
+2025-08-20 14:54:46,124 - INFO - ✅ Added Case 123
+2025-08-20 14:54:49,318 - INFO - ✅ Added Case 124
+2025-08-20 14:54:50,931 - INFO - ✅ Added Case 125
+2025-08-20 14:54:55,330 - INFO - ✅ Added Case 126
+2025-08-20 14:54:58,099 - INFO - ✅ Added Case 127
+2025-08-20 14:54:59,620 - WARNING - ⚠️ No judgment text found for Case 128
+2025-08-20 14:54:59,620 - INFO - ⚠️ Skipped Case 128
+2025-08-20 14:55:01,485 - WARNING - ⚠️ No judgment text found for Case 129
+2025-08-20 14:55:01,485 - INFO - ⚠️ Skipped Case 129
+2025-08-20 14:55:02,698 - WARNING - ⏸️  Rate limited on Case 130, adding delay
+2025-08-20 14:55:15,623 - INFO - ✅ Added Case 130
+2025-08-20 14:55:18,884 - INFO - ✅ Added Case 131
+2025-08-20 14:55:20,011 - INFO - ✅ Added Case 132
+2025-08-20 14:55:24,024 - INFO - ✅ Added Case 133
+2025-08-20 14:55:27,706 - INFO - ✅ Added Case 134
+2025-08-20 14:55:30,760 - INFO - ✅ Added Case 135
+2025-08-20 14:55:33,941 - INFO - ✅ Added Case 136
+2025-08-20 14:55:35,472 - INFO - ✅ Added Case 137
+2025-08-20 14:55:38,367 - INFO - ✅ Added Case 138
+2025-08-20 14:55:41,304 - INFO - 😴 Taking a longer nap for 6.9 seconds...
+2025-08-20 14:55:50,138 - INFO - ✅ Added Case 139
+2025-08-20 14:55:55,042 - INFO - ✅ Added Case 140
+2025-08-20 14:55:55,783 - INFO - ✅ Added Case 141
+2025-08-20 14:55:58,573 - INFO - ✅ Added Case 142
+2025-08-20 14:55:59,639 - INFO - ✅ Added Case 143
+2025-08-20 14:56:00,576 - INFO - ✅ Added Case 144
+2025-08-20 14:56:03,293 - INFO - ✅ Added Case 145
+2025-08-20 14:56:04,459 - INFO - ✅ Added Case 146
