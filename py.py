@@ -262,7 +262,7 @@ if __name__ == "__main__":
             # Take a break between batches
             break_time = random.uniform(10, 20)
             logger.info(f"☕ Taking a break for {break_time:.1f} seconds between batches...")
-            time.sleep(break_time)
+            time.sleep(0.1)
             
         except Exception as e:
             logger.error(f"❌ Error processing batch {batch_start}-{batch_end}: {e}")
